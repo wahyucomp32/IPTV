@@ -66,11 +66,6 @@ https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_insert_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="insert_USEE" group-title="Lokal",insert_USEE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=1uJmDa_cjRrks_lFBVEKRQ&exp=1630303206&tvcode=insert&uid=2935687&utoken=
-https://streaming.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?enc=0dQiCqyXAZDiaaXYQSvBhA&exp=1630299906&encp=FVmD4DYgUi0iBo4iQEdTKw&expp=1630310406
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" tvg-id="BathokGpc" tvg-name="OK TV" group-title="Lokal",OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -401,7 +396,7 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="TVN" group-title="Entertainmnet",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #https://gpc.my.id/vidio/tvn.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="Citra-Drama" group-title="Entertainmnet",Citra-Drama
@@ -713,7 +708,7 @@ https://streaming.useetv.com/dass/134/thrill_dash/manifest_wuseetv.mpd?enc=iJ2Kp
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="TVN" group-title="Movie",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #https://gpc.my.id/vidio/tvn.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvnmoviews_small.png" tvg-id="BathokGpc" tvg-name="TVNMovies" group-title="Movie",TVNMovies
