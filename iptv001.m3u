@@ -691,6 +691,10 @@ https://streaming.useetv.com/dass/133/galaxypremium_dash/manifest_wuseetv.mpd?en
 #KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=pTlSpcE1RxB58xN52XDUFg&exp=1630303205&tvcode=thrill&uid=2935687&utoken=
 https://streaming.useetv.com/dass/134/thrill_dash/manifest_wuseetv.mpd?enc=iJ2KpXtT6YBeN7b5s943KQ&exp=1630299905&encp=p5rt-fcPTlaCECxYQIUCMw&expp=1630310405
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" tvg-id="BathokGpc" tvg-name="One" group-title="Movie",One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="TVN" group-title="Movie",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
