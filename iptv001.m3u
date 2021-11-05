@@ -1,5 +1,4 @@
 #EXTM3U refresh="3600"
-#PLAYLIST:gpc.my.id
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_1.png" tvg-id="BathokGpc" tvg-name="VISION PRIME" group-title="Lokal",VISION PRIME
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -528,12 +527,6 @@ https://gpc.my.id/usee/arirang.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainmnet",The K-POP
 https://gpc.my.id/ytlive/the-kpop.m3u8
 
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?9
-
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?10
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Metro-TV" group-title="News",Metro-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -592,12 +585,6 @@ https://gpc.my.id/usee/france24.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="News",seatoday_USEE
 https://gpc.my.id/usee/seatoday.m3u8
-
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?11
-
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?12
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Zee-Bioskop" group-title="Movie",Zee-Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,12 +730,6 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?11
-
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
-http://gpc.my.id/kopi.ts?12
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indishopping_small.png" tvg-id="BathokGpc" tvg-name="indishopping_USEE" group-title="Lifestyle",indishopping_USEE
 https://gpc.my.id/usee/indishopping.m3u8
