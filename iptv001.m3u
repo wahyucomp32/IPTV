@@ -341,7 +341,7 @@ https://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="Citra-Entertainment" group-title="Entertainmnet",Citra-Entertainment
 https://gpc.my.id/vidio/citra-entertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_wakuwaku_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="wakuwaku_USEE" group-title="Entertainmnet",WAKUWAKU
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_wakuwaku_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="WAKUWAKU" group-title="Entertainmnet",WAKUWAKU
 http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
 
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="ZING" group-title="Entertainmnet",ZING
@@ -350,10 +350,10 @@ https://gpc.my.id/vidio/zing.m3u8
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="Magna-TV" group-title="Entertainmnet",Magna-TV
 https://gpc.my.id/vidio/magna-tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_axn_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="axn_USEE" group-title="Entertainmnet",AXN
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_axn_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="AXN" group-title="Entertainmnet",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kix_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kix_USEE" group-title="Entertainmnet",KIX
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kix_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="KIX" group-title="Entertainmnet",KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
@@ -401,7 +401,7 @@ http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
 #https://gpc.my.id/vidio/mola-tv-free.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_history_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="history" group-title="Entertainmnet",History
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_history_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="History" group-title="Entertainmnet",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
@@ -444,11 +444,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie",HBO
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-https://s.id/sbiptv-hbo
-
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="HBO red" group-title="Movie",HBO red
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" tvg-id="BathokGpc" tvg-name="HBO signature" group-title="Movie",HBO signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
