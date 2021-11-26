@@ -444,9 +444,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://s.id/sbiptv-hbo
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" tvg-id="BathokGpc" tvg-name="HBO signature" group-title="Movie",HBO signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
