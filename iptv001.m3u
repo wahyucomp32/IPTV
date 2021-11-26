@@ -320,11 +320,7 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.
 
 
 
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment",K+
-http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment",GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="TVN" group-title="Entertainmnet",TVN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -355,12 +351,6 @@ http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kix_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="KIX" group-title="Entertainmnet",KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 tvg-id="BathokGpc" group-title="Entertainment",Blue Ant Extreme
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSaDRek7uzYYmnaDEeO9jSyumjcvaexo7AjoGyIwQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="nagaswara" group-title="Entertainmnet",Nagaswara
 https://gpc.my.id/ytlive/ngsw.m3u8
@@ -409,6 +399,19 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainmnet",The K-POP
 https://gpc.my.id/ytlive/the-kpop.m3u8
 
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="K+" group-title="Entertainmnet",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="GEM" group-title="Entertainmnet",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Blue Ant" group-title="Entertainmnet" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Blue Ant Extreme" group-title="Entertainmnet",Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+
+
 
 
 
@@ -443,8 +446,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie",HBO
-https://s.id/sbiptv-hbo
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie", HBO FHD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie", HBO HD
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" tvg-id="BathokGpc" tvg-name="HBO signature" group-title="Movie",HBO signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -512,6 +518,17 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="K+" group-title="Movie",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="GEM" group-title="Movie",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Blue Ant" group-title="Movie" tvg-logo="http://kamiselaluada.com/img/blueantentertainment.png",Blue Ant
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Blue Ant Extreme" group-title="Movie",Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 
 
