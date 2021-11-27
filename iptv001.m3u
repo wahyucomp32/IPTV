@@ -10,7 +10,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="Lokal",ANTV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" tvg-name="ANTV 1" ,ANTV 1
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV 2" group-title="Lokal",ANTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://conversant.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
