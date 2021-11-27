@@ -43,10 +43,13 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="SCTV" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="SCTV 2" group-title="Lokal",SCTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png",SCTV 1
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="BathokGpc" tvg-name="GTV" group-title="Lokal",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
