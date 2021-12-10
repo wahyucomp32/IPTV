@@ -11,9 +11,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="Lokal",ANTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://conversant.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="Indosiar" group-title="Lokal",Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
