@@ -19,10 +19,10 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Trans-TV" group-title="Lokal",Trans-TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Trans-7" group-title="Lokal",Trans-7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="MNC" group-title="Lokal",MNC-TV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
