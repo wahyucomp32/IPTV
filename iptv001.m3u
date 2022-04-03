@@ -220,11 +220,6 @@ http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s
 
 
 
-#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport" tvg-name="champion-tv-3",champion-tv-3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMzY2NTI4NjkiLCJjaWQiOiJldmVudC0zLWRhc2gtZW5jcnlwdGVkLW5ldyIsInRva2VuIjoiWVBFMnQ5QUNoaFV6SXFOVHNaQWcxcThlb3BaSGw1ZnQ0bG9obS9GQW9ySDYyRW00aXYvbXlKcnkwUW9XL2tCaTlFbjZjVkRDK3VTcnAxWVVJUUdNQ1g4bWx5cFNyOTFqVEo2T3IyOWZxK009IiwidGltZXN0YW1wIjoiMjAyMS0wOC0zMFQwNToxMDowNFoiLCJoYXNoIjoibFJ4SHFKSHFXbmlTa2FVZHRhbnNxRzErWXloM3VrditpQ2dpc24zSWt1TT0ifQ==
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
