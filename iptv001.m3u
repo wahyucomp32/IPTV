@@ -220,54 +220,15 @@ http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s
 
 
 
-
-
-#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" group-title="Sport" tvg-name="champion-tv-1",champion-tv-1
-https://gpc.my.id/sport/champion-tv-1.m3u8
-
-#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" group-title="Sport" tvg-name="champion-tv-2",champion-tv-2
-https://gpc.my.id/sport/champion-tv-2.m3u8
-
 #EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport" tvg-name="champion-tv-3",champion-tv-3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMzY2NTI4NjkiLCJjaWQiOiJldmVudC0zLWRhc2gtZW5jcnlwdGVkLW5ldyIsInRva2VuIjoiWVBFMnQ5QUNoaFV6SXFOVHNaQWcxcThlb3BaSGw1ZnQ0bG9obS9GQW9ySDYyRW00aXYvbXlKcnkwUW9XL2tCaTlFbjZjVkRDK3VTcnAxWVVJUUdNQ1g4bWx5cFNyOTFqVEo2T3IyOWZxK009IiwidGltZXN0YW1wIjoiMjAyMS0wOC0zMFQwNToxMDowNFoiLCJoYXNoIjoibFJ4SHFKSHFXbmlTa2FVZHRhbnNxRzErWXloM3VrditpQ2dpc24zSWt1TT0ifQ==
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
-#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://images.useetv.com/logo_nba_small1.png?v=2.0.0.13" group-title="Sport" tvg-name="nba",nba
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMzY2NTI4NjkiLCJjaWQiOiJuYmEtZGFzaC1lbmNyeXB0ZWQiLCJ0b2tlbiI6IllQRTJ0OUFDaGhVeklxTlRzWkFnMXE4ZW9wWkhsNWZ0NGxvaG0vRkFvckg2MkVtNGl2L215SnJ5MFFvVy9rQmk5RW42Y1ZEQyt1U3JwMVlVSVFHTUNYOG1seXBTcjkxalRKNk9yMjlmcStNPSIsInRpbWVzdGFtcCI6IjIwMjEtMDgtMzBUMDU6MTA6MDRaIiwiaGFzaCI6ImYrS3lzcG0wNlRLNXhSRHIvcWMxOEF5RG5uak5IblJiQTZkOHo4aklibzg9In0=
-https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" tvg-id="BathokGpc" tvg-name="Mnc-Sport" group-title="Sport",Mnc-Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
-
-#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport" group-title="Sport",ZQ-Sport
-https://six1.zqprem.com/zqscore/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport2" group-title="Sport",ZQ-Sport2
-https://six1.zqprem.com/zqdrama-sec/index.mpd?token=7b11ba159e339d4d6bd4e1e47afd119b9a56199e-302b826ab6a5b893459f957547124f26-1630310912-1630300112&remote=18.141.177.46
-
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg" tvg-id="BathokGpc" tvg-name="Viasat-Sport" group-title="Sport",Viasat-Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="foxsport1" group-title="Sport",foxsport1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/FoxSport-Siji/sa_dash_vmx/FoxSport-Siji.mpd
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="foxsport2" group-title="Sport",foxsport2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="foxsport3" group-title="Sport",foxsport3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="Sport",bein1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -279,17 +240,6 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-1-253.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport1" group-title="Sport",AstroSuperSport1
-http://iptv.tvmalaysia.cc/penang200/penang200/6708
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport2" group-title="Sport",AstroSuperSport2
-http://iptv.tvmalaysia.cc/penang200/penang200/6710
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport3" group-title="Sport",AstroSuperSport3
-http://iptv.tvmalaysia.cc/penang200/penang200/6711
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport4" group-title="Sport",AstroSuperSport4
-http://iptv.tvmalaysia.cc/penang200/penang200/6712
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" tvg-id="BathokGpc" tvg-name="soccer" group-title="Sport",soccer
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
