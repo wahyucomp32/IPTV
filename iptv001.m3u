@@ -221,9 +221,6 @@ http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="bein1" group-title="Sport",bein1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -244,7 +241,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_egg_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="egg_USEE" group-title="Sport",Egg Net
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png" tvg-id="BathokGpc" tvg-name="fight-sport" group-title="Sport",fight-sport
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png" tvg-id="BathokGpc" tvg-name="Fight-Sport" group-title="Sport",Fight-Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
