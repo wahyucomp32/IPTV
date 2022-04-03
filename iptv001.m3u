@@ -441,11 +441,11 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie", HBO SD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO_SD" group-title="Movie", HBO_SD
 https://nonton.site:8443/Thopani/Haidir/26595
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie", HBO FHD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO_FHD" group-title="Movie", HBO_FHD
 https://nonton.site:8443/Thopani/Haidir/1496
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO" group-title="Movie", HBO HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-id="BathokGpc" tvg-name="HBO_HD" group-title="Movie", HBO_HD
 https://nonton.site:8443/Thopani/Haidir/210
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" tvg-id="BathokGpc" tvg-name="HBO signature" group-title="Movie",HBO signature
