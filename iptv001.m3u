@@ -527,27 +527,14 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="Blue Ant Extreme" group-title="Movie",Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/45668db83a545b41934b1bebc992f56b.png" group-title="Movie",Thrill
-http://shareext@urtv.cc:80/live/114048/114048/7220.ts?shareext.ts
+
 
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="Movie",AXN
 http://shareext@urtv.cc:80/live/114048/114048/7223.ts?shareext.ts
 
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="Movie",FOX
 http://shareext@urtv.cc:80/live/114048/114048/7227.ts?shareext.ts
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/b735a95be9e3259a1af53ebae3a3b7a9.png" group-title="Movie",Fox_Crime
-http://shareext@urtv.cc:80/live/114048/114048/7225.ts?shareext.ts
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Fox Life" tvg-logo="http://tvmalaysia.cc:80/images/77610f7ce4c929dc8b97da8cd60bb617.png" group-title="Movie",Fox_Life
-http://shareext@urtv.cc:80/live/114048/114048/7228.ts?shareext.ts
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Fox Family Movie" tvg-logo="http://tvmalaysia.cc:80/images/cbf50fdf2186c7a0a8cef8fd2ae9f2d3.png" group-title="Movie",Fox_Family_Movie
-http://shareext@urtv.cc:80/live/114048/114048/9027.ts?shareext.ts
 
-
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/2137a2ac79600bd512bbe7f6c9010dd4.png" group-title="Movie",KiX
-http://shareext@urtv.cc:80/live/114048/114048/7229.ts?shareext.ts
-
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ea6cd61a60135de63c734fd6803db813.jpg" group-title="Movie",Star_Movies HD
-http://shareext@urtv.cc:80/live/114048/114048/8997.ts?shareext.ts
 
 
 
