@@ -66,9 +66,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Metro-TV" group-title="Lokal",Metro-TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Kompas-Tv" group-title="Lokal",Kompas-Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
