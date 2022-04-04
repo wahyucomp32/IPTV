@@ -468,8 +468,16 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="WahyuComp" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="Movie",AXN
 http://shareext@urtv.cc:80/live/114048/114048/7223.ts?shareext.ts
 
-#EXTINF:-1 tvg-id="WahyuComp" tvg-name="FOX" tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" group-title="Movie",FOX
-http://shareext@urtv.cc:80/live/114048/114048/7227.ts?shareext.ts
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" tvg-id="WahyuComp" tvg-name="FOX ACTION MOVIES" group-title="Movie",FOX ACTION MOVIES
+http://stariptv.org:8080/hakim2021/123456/132001
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" tvg-id="WahyuComp" tvg-name="FOX CRIME" group-title="Movie",FOX CRIME
+http://stariptv.org:8080/hakim2021/123456/132005
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/22f6bf7562a214da6986407de0aa7bf2.jpeg" tvg-id="WahyuComp" tvg-name="FOX MOVIES" group-title="Movie",FOX MOVIES
+http://stariptv.org:8080/hakim2021/123456/132007
+
+
 
 
 #EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Movie",THRILL
