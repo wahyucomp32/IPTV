@@ -28,7 +28,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="RCTI" group-title="Lokal",RCTI
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="SCTV" group-title="Lokal",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
@@ -53,7 +55,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" tvg-id="BathokGpc" tvg-name="OK TV" group-title="Lokal",OK TV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" tvg-id="BathokGpc" tvg-name="OK TV" group-title="Lokal",OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
@@ -334,7 +336,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainmnet",The K-POP
 https://gpc.my.id/ytlive/the-kpop.m3u8
 
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="K+" group-title="Entertainmnet",K+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" tvg-name="K PLUS" group-title="Entertainmnet",K PLUS
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="GEM" group-title="Entertainmnet",GEM
@@ -455,7 +457,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="BathokGpc" tvg-name="K+" group-title="Movie",K+
+#EXTINF:-1 tvg-id="BathokGpc" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" tvg-name="K PLUS" group-title="Movie",K PLUS
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="BathokGpc" tvg-name="GEM" group-title="Movie",GEM
