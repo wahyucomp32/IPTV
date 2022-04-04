@@ -1,38 +1,38 @@
 #EXTM3U refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_1.png" tvg-id="WahyuComp" tvg-name="VISION PRIME" group-title="Local",VISION PRIME
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_1.png" tvg-id="WahyuComp" tvg-name="VISION PRIME" group-title="Lokal",VISION PRIME
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="TVRI" group-title="Local",TVRI
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="TVRI" group-title="Lokal",TVRI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="WahyuComp" tvg-name="ANTV" group-title="Local",ANTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="WahyuComp" tvg-name="ANTV" group-title="Lokal",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="Indosiar" group-title="Local",Indosiar
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="Indosiar" group-title="Lokal",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-TV" group-title="Local",Trans-TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-TV" group-title="Lokal",Trans-TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-7" group-title="Local",Trans-7
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-7" group-title="Lokal",Trans-7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="WahyuComp" tvg-name="MNC" group-title="Local",MNC-TV
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="WahyuComp" tvg-name="MNC" group-title="Lokal",MNC-TV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="WahyuComp" tvg-name="RCTI" group-title="Local",RCTI
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="WahyuComp" tvg-name="RCTI" group-title="Lokal",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="SCTV" group-title="Local",SCTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="SCTV" group-title="Lokal",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="WahyuComp" tvg-name="GTV" group-title="Lokal",GTV
@@ -40,52 +40,52 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="RTV" group-title="Local",RTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="RTV" group-title="Lokal",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="NET" group-title="Local",NET
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="NET" group-title="Lokal",NET
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="WahyuComp" tvg-name="Tv-One" group-title="Local",Tv-One
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="WahyuComp" tvg-name="Tv-One" group-title="Lokal",Tv-One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" tvg-id="WahyuComp" tvg-name="OK TV" group-title="Local",OK TV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/oktv.png" tvg-id="WahyuComp" tvg-name="OK TV" group-title="Lokal",OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Berita-Satu" group-title="Local",Berita-Satu
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Berita-Satu" group-title="Lokal",Berita-Satu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Metro-TV" group-title="Local",Metro-TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Metro-TV" group-title="Lokal",Metro-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Kompas-Tv" group-title="Local",Kompas-Tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Kompas-Tv" group-title="Lokal",Kompas-Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="WahyuComp" tvg-name="iNews" group-title="Local",iNews
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="WahyuComp" tvg-name="iNews" group-title="Lokal",iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="JTV" group-title="Local",JTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="JTV" group-title="Lokal",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-#EXTINF:0 tvg-id="WahyuComp" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ent.png" group-title="Local",MNC Entertainment
+#EXTINF:0 tvg-id="WahyuComp" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/ent.png" group-title="Lokal",MNC Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
