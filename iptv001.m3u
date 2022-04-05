@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://bit.ly/IPTVWahyu003
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤjangan ㅤdicuri
 https://emoji.mrz.kn
 #EXTINF: -1 tvg-name="Gratis"  group-title="HTB", H T Bㅤuntuk ㅤ tivimate ㅤjuga
@@ -384,7 +384,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 
 
 #EXTINF:0 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-url="http://www.useetv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png" group-title="Indonesia Channel",Nusantara TV
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
+
 
 
 
