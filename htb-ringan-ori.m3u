@@ -483,7 +483,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="MOVIES" tvg-logo = "https://www.dropbox.com/s/cak4q2o1fzsevp7/cinemax.png?dl=1", Cinemax 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png", Cinemax 
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
@@ -1426,40 +1426,40 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 <----------------------------------- Religi --------------------------------------->
 
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",DAAI
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="http://dusktill.masuk.web.id/img/daaitv.png" group-title="Religi",DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",MTA TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="Religi",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Rodja TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="Religi",Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://thumbor.prod.vid.id/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Religi",Al Quran Al Kareem TV
 http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",AL Sunnah Nabawi TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",AL Sunnah Nabawi TV
 http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Makkah TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Makkah
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Makkah
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Iqra TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Iqra TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",ADI_TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Religi",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Wesal TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Surau TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w1427178391.m3u8
 
-#EXTINF:-1 tvg-id="WahyuComp" group-title="Religi",Map Palembang TV
+#EXTINF:-1 tvg-id="WahyuComp" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Religi",Map Palembang TV
 https://re1.siar.us/maptv/live/playlist.m3u8
 
 
