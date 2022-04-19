@@ -33,7 +33,7 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="SCTV" group-title="Lokal",SCTV
-https://nonton.site:8443/1842273725/9237641816/931
+https://nonton.site:8443/1842273725/9237641816/32
 
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="WahyuComp" tvg-name="GTV" group-title="Lokal",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
