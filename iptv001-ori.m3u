@@ -16,13 +16,13 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="Indosiar" group-title="Lokal",Indosiar
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+http://iptv12k.com:35461/8022022301/468985/4802
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-TV" group-title="Lokal",Trans-TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+https://nonton.site:8443/1842273725/9237641816/34
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="WahyuComp" tvg-name="Trans-7" group-title="Lokal",Trans-7
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+https://nonton.site:8443/1842273725/9237641816/35
 
 #EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="WahyuComp" tvg-name="MNC" group-title="Lokal",MNC-TV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
@@ -33,7 +33,7 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="WahyuComp" tvg-name="SCTV" group-title="Lokal",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+https://nonton.site:8443/1842273725/9237641816/931
 
 #EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="WahyuComp" tvg-name="GTV" group-title="Lokal",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
